@@ -8,7 +8,7 @@ Works best on a PC 1080p 16:9 screen. Runs on mobile horizontally. On mobile, ro
 
 ## Description
 
-A simple clone of the wave gamemode from Geometry Dash. Quickly made this for fun in a couple hours.
+A simple clone of the wave gamemode from Geometry Dash made in Unity. Quickly made this for fun in a couple hours.
 The trail effect was challenging. It is made by instantiating a rhombus (or square rotated 45 degrees) at the player position over and over.
 Death particle effect, spinning saws, music, replay. 
 
